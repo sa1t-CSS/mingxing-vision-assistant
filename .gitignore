@@ -1,0 +1,25 @@
+# Local tools and credentials
+.idea/
+.vscode/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.gradle/
+.kotlin/
+.cxx/
+*.iml
+android/local.properties
+android/key.properties
+tmp/
+release/
+*.apk
+*.zip
